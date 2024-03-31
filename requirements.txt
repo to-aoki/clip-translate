@@ -1,0 +1,6 @@
+langid
+pyperclip
+torch
+transformers
+ctranslate2
+pysbd
